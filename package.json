@@ -15,5 +15,8 @@
     "jade": "^1.11.0",
     "node-cmd": "^3.0.0",
     "node-ssh": "^5.1.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
   }
 }
